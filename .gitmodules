@@ -1,0 +1,8 @@
+[submodule "folder_name"]
+	path = micropython
+	url = git@github.com:Ilyhadev/micropython.git
+	branch = pr-mini-node-v3
+[submodule "c_realization"]
+	path = c_realization
+	url = git@github.com:Ilyhadev/STM32_Cpython_benches.git
+	branch = main
